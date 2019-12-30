@@ -1,2 +1,2 @@
 # POS
-Developed by Min Khent
+Developed by BEE data myanmar intern Team
